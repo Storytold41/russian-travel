@@ -1,0 +1,9 @@
+.intro__list-bold-font {
+  margin: 0;
+  color: #FFFFFF;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-style:  normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.5;
+}

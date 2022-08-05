@@ -1,0 +1,17 @@
+.footer__nav-name {
+  margin-left: 18px;
+}
+
+.footer__nav-name:first-child {
+  margin: 0;
+}
+
+@media screen and (max-width: 760px) {
+  .footer__nav-name {
+    margin: 32px 0 0;
+  }
+
+.footer__nav-name:first-child {
+  margin-top: 0;
+  }
+}
