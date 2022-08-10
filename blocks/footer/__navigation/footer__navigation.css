@@ -12,5 +12,6 @@
   .footer__navigation {
     flex-direction: column;
     align-items: start;
+    margin: 0 auto;
   }
 }
